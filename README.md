@@ -28,7 +28,6 @@ The application lets you:
 - See the full probability distribution across all 10 digit classes
 - Preview the processed 28×28 image used for prediction
 
-> *(Add a screenshot or GIF here once available)*
 
 ---
 
