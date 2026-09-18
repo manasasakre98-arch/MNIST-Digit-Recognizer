@@ -220,6 +220,11 @@ Through this project, I gained practical understanding of:
 - Experimenting with deeper CNN architectures
 
 ---
+## 🚀 Live Demo
+
+👉 [Try the MNIST Digit Recognizer](https://mnist-digit-recognizer-09.streamlit.app/)
+
+Draw a handwritten digit and see the CNN predict it in real time!
 
 ## 👤 Author
 
